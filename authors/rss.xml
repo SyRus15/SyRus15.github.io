@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <copyright>© 2025 AnyCar</copyright>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Wed, 01 Jan 2025 00:00:00 EST</lastBuildDate>
+        
+
+        
+            <link>https://any-car.net/authors/</link>
+        
+
+        
+            <atom:link href="https://any-car.net/authors/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="https://any-car.net/authors/atom.xml" hreflang="en-us" rel="alternate" type="application/atom+xml"/>
+        
+            
+
+            <atom:link href="https://any-car.net/authors/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="https://any-car.net/authors/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+            <managingEditor>hello@any-car.net (AnyCar Team)</managingEditor>
+        
+
+        
+            <title>Authors · AnyCar</title>
+        
+
+        
+            <webMaster>hello@any-car.net (AnyCar Team)</webMaster>
+        
+
+        
+    </channel>
+</rss>

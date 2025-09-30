@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on AnyCar</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on AnyCar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© AnyCar</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;h1 id=&#34;about-anycar&#34;&gt;About AnyCar&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-mission&#34;&gt;Our Mission&lt;/h2&gt;&#xA;&lt;p&gt;At AnyCar, we believe that every vehicle owner deserves access to professional-grade diagnostics and repair services, regardless of their location or the rarity of their vehicle. We&amp;rsquo;re transforming the automotive service industry by democratizing access to dealership-level expertise.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-problem-we-solve&#34;&gt;The Problem We Solve&lt;/h2&gt;&#xA;&lt;p&gt;The automotive world is increasingly complex, with modern vehicles containing sophisticated electronic systems that require specialized knowledge and tools. Unfortunately, this creates significant challenges:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
